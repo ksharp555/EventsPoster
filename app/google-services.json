@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "127969083976",
+    "firebase_url": "https://testing-bde13.firebaseio.com",
+    "project_id": "testing-bde13",
+    "storage_bucket": "testing-bde13.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:127969083976:android:e7b83a5e25f6e191",
+        "android_client_info": {
+          "package_name": "como.laioffer.eventcity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "127969083976-k90op9o3jdssp8kv68p4i5tbu39egrsm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "como.laioffer.eventcity",
+            "certificate_hash": "2decfcef74cf5181f7dbce7ab3507bb8f369d7e2"
+          }
+        },
+        {
+          "client_id": "127969083976-e0fbo20jsf27k67oskapaj6lnp8f6k49.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAN-1sG5HHQ-fL0iDuKrTWxo_HH5zocR0s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "127969083976-e0fbo20jsf27k67oskapaj6lnp8f6k49.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
