@@ -1,4 +1,4 @@
-package como.laioffer.eventcity;
+package com.jiahe.eventcity;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("como.laioffer.eventcity", appContext.getPackageName());
+        assertEquals("com.jiahe.eventcity", appContext.getPackageName());
     }
 }

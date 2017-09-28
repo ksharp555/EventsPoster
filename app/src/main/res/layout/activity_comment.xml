@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    tools:context="como.laioffer.eventcity.EventActivity">
+    tools:context="com.jiahe.eventcity.EventActivity">
 
     <ListView
         android:id="@+id/comment_listview"

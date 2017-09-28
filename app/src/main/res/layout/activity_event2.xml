@@ -5,7 +5,7 @@
     android:id="@+id/activity_event"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="como.laioffer.eventcity.EventActivity">
+    tools:context="com.jiahe.eventcity.EventActivity">
 
     <TextView
         android:id="@+id/text_user"

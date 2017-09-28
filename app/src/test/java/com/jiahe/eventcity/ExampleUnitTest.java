@@ -1,4 +1,4 @@
-package como.laioffer.eventcity;
+package com.jiahe.eventcity;
 
 import org.junit.Test;
 

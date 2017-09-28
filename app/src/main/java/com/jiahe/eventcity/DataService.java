@@ -1,4 +1,4 @@
-package como.laioffer.eventcity;
+package com.jiahe.eventcity;
 
 import java.util.ArrayList;
 import java.util.List;

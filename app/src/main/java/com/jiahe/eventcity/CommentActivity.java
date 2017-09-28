@@ -1,4 +1,4 @@
-package como.laioffer.eventcity;
+package com.jiahe.eventcity;
 
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
@@ -17,6 +17,7 @@ import com.google.firebase.database.ValueEventListener;
 
 import java.util.ArrayList;
 import java.util.List;
+
 
 
 public class CommentActivity extends AppCompatActivity {

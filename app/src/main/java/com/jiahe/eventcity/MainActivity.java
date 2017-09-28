@@ -1,4 +1,4 @@
-package como.laioffer.eventcity;
+package com.jiahe.eventcity;
 
 import android.content.Intent;
 import android.content.res.Configuration;

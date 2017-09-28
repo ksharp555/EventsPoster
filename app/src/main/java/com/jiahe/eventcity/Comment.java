@@ -1,4 +1,4 @@
-package como.laioffer.eventcity;
+package com.jiahe.eventcity;
 
 /**
  * Created by jiahechang on 7/20/17.

@@ -5,7 +5,7 @@ android {
     compileSdkVersion 25
     buildToolsVersion '25.0.0'
     defaultConfig {
-        applicationId "como.laioffer.eventcity"
+        applicationId "com.jiahe.eventcity"
         minSdkVersion 19
         targetSdkVersion 25
         versionCode 1
